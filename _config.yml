@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Transportation System Modeler at NCTCOG"
   location         : "Dallas, TX, USA"
-  employer         : "North Central Texas Council of Goverments"
-  uri              : https://www.nctcog.org/
+  employer         : "North Central Texas Council of Governments"
+  uri              : #URL
   email            : "zli@nctcog.org" 
 
   # Academic websites
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/zihao-li-510a41251/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
