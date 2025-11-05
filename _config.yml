@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "zihaolzh / Persaonal Page"
 title_separator          : "-"
 name                     : &name "Zihao Li"
@@ -29,7 +29,7 @@ author:
   bio              : "Transportation System Modeler"
   location         : "Dallas, TX, USA"
   employer         : "NCTCOG"
-  employer_url     : "https://www.nctcog.org/"
+  employer_website     : "https://www.nctcog.org/"
   uri              : "https://zihaolzh.github.io/"
   email            : "zli@nctcog.org" 
 
