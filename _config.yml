@@ -26,11 +26,11 @@ author:
   avatar           : "headshot_square.jpeg"
   name             : "Zihao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Transportation System Modeler at NCTCOG"
+  bio              : "Transportation System Modeler"
   location         : "Dallas, TX, USA"
-  employer         : "North Central Texas Council of Governments"
+  employer         : "NCTCOG"
   employer_url     : "https://www.nctcog.org/"
-  uri              : #URL
+  uri              : "https://zihaolzh.github.io/"
   email            : "zli@nctcog.org" 
 
   # Academic websites
