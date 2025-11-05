@@ -27,7 +27,7 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      
+     <!-- 
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
         {% if author.employer_website %}
@@ -35,9 +35,23 @@
         {% else %}
           {{ author.employer }}
         </li>
-        {% endif %}
-        
+        {% endif %} 
+      {% endif %}-->
+
+      {% if author.employer and author.employer_website %}
+        <li class="author__desktop">
+          <a href="{{ author.employer_website }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
+            {{ author.employer }}
+          </a>
+        </li>
+      {% elsif author.employer %}
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
+          {{ author.employer }}
+        </li>
       {% endif %}
+        
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
