@@ -14,7 +14,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
  
 About me
 ======
-I am a transportation system modeler at North Central Texas Council of Governments (NCTCOG). I have a Master's degree of Electrical and Computer Engineering from {Purdue University}(https://www.purdue.edu/) and a Bachelor's degree of Transportation Engineeering from Tongji University
+I am a transportation system modeler at North Central Texas Council of Governments (NCTCOG). I hold a Master's degree in Electrical and Computer Engineering from Purdue University, complemented by a Bachelor's degree in Transportation Engineering from Tongji University. With the background of both Transportation and Computer Engineering, and as a transportation nerd, it is always fansinating to me to see what new technologies can be applied into the transportation sector and to explore what's more for the future transportation! Welcome to my personal website, by the way!
 
 
 A data-driven personal website
