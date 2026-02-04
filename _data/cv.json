@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zihao Li",
+    "email": "zli@nctcog.org (Work), zayden2020lzh@gmail.com (Personal)",
+    "phone": "765-767-3751",
+    "website": "https://zihaolzh.github.io",
+    "summary": "Transportation System Modeler at NCTCOG transportation department, the MPO of Dallas Fort-Worth metropolitan area. Experienced in travel demand modeling, machine learning applications in transportation, data analysis and visualization, traffic simulation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Dallas",
       "countryCode": "US",
-      "region": ""
+      "region": "TX"
     },
     "profiles": [
       {
@@ -19,14 +19,9 @@
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/zihaolzh"
       }
     ]
   },
