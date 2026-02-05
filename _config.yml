@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-#title                    : "zihaolzh / Persaonal Page"
+title                    : "zihaolzh / Persaonal Page"
 title_separator          : "-"
 name                     : &name "Zihao Li"
 description              : &description "Zihao Li's personal webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
